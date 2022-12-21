@@ -1,2 +1,1 @@
-# website
-Official Rupyber Studios website, made by Pyrix25633
+# Team Azonix Website
