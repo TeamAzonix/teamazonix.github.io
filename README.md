@@ -1,1 +1,2 @@
-# teamazonix.github.io
+# website
+Official Rupyber Studios website, made by Pyrix25633
